@@ -1,0 +1,7 @@
+#data9010.yaml
+path: /NFS/celine/aicup/yoloNew
+train: train/images
+val: val/images          # 若你另有驗證集資料夾，可改成該資料夾名稱
+test: test_images
+nc: 1
+names: ['heart_valve']

@@ -1,0 +1,7 @@
+path: /NFS/celine/aicup/yoloNew
+train: /NFS/celine/aicup/yoloNew/kfold_5/fold4/fold4_train.txt
+val: /NFS/celine/aicup/yoloNew/kfold_5/fold4/fold4_val.txt
+test: /NFS/celine/aicup/yoloNew/test_images
+nc: 1
+names:
+- heart_valve
