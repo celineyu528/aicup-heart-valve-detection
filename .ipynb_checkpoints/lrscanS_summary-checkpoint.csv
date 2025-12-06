@@ -1,7 +1,0 @@
-rank,lr0,mAP50,mAP50-95,precision,recall,val_box,val_cls,val_dfl,epoch,save_dir
-1,0.003,0.97898,0.73146,0.92826,0.93727,0.9059,0.44866,0.8183,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.0033
-2,0.01,0.9777,0.72223,0.91618,0.94465,0.89873,0.45867,0.81959,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.013
-3,0.0003,0.97635,0.73102,0.91518,0.93727,0.90926,0.44817,0.81698,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.00033
-4,0.001,0.97509,0.73024,0.90724,0.9383,0.90559,0.44712,0.81717,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.0013
-5,0.03,0.96325,0.67506,0.91055,0.88561,0.97571,0.52469,0.85749,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.033
-6,0.1,0.94381,0.60806,0.8738,0.89427,1.07764,0.61912,0.9192,5.0,/NFS/celine/aicup/yoloNew/runs/detect/lrscan_s_lr0.13
