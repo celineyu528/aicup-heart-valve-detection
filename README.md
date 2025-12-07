@@ -21,7 +21,10 @@ directory structure before running training scripts.
 
 ## Dataset Preparation
 The official AI CUP dataset includes:
-/code
+```python
 training_image/
 training_label/
 testing_image/
+
+```
+
