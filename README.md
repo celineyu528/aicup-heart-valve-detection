@@ -46,7 +46,7 @@ dataset/
 ```
 Use `S1_data_for_yolo.ipynb` to copy and rename files into the YOLO directory structure and to create train/validation/test splits. Update `data9010.yaml` so the `path` points to the `dataset/` root on your machine.
 
-### K-fold Training and Ensembling
+## K-fold Training and Ensembling
 1. Run `kfoldS0_prepare.ipynb` to generate folds.
 2. Train each fold with `kfoldS1_train.ipynb`.
 3. Review metrics in `kfoldS2_summary.ipynb` and ensemble predictions with `kfoldS4_ensemble_METHOD_infer.ipynb` (leverages `ensemble-boxes`).
