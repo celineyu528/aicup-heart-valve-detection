@@ -27,4 +27,9 @@ training_label/
 testing_image/
 
 ```
-
+YOLO requires the following structure:
+```
+dataset/
+│── images/
+│── labels/
+```
